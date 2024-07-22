@@ -1,0 +1,5 @@
+lcd.ko
+llcc_perfmon.ko
+rdbg.ko
+mpq-adapter.ko
+mpq-dmx-hw-plugin.ko
