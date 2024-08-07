@@ -3,3 +3,5 @@ llcc_perfmon.ko
 rdbg.ko
 mpq-adapter.ko
 mpq-dmx-hw-plugin.ko
+rmnet_perf.ko
+rmnet_shs.ko
